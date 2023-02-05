@@ -1,7 +1,4 @@
-/* Ian Lim
-CMPSC 121-001
-Date: 11/20/22
-Selection Sorter
+/* Selection Sorter
 This program uses a simple selection sort to sort an array of up
 to 100 integers in ascending order. It prompts the user for an input
 file that contains up to 100 integers, reads the integers into an array,
