@@ -1,7 +1,4 @@
-/* Ian Lim
-CMPSC 121-001
-Date: 10/23/22
-Mortgager Project
+/* Mortgager
 This program generates an amortization schedule for each month given user inputs
 of the amount of money borrowed (principal), annual interest rate as a percentage,
 and term of the loan in years. */
