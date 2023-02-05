@@ -1,7 +1,4 @@
-/* Ian Lim
-CMPSC 121-001
-Date: 12/11/22
-Grader Project
+/* Grader
 This program takes an input file of up to 100 final scores, and then outputs into a
 file: the mean, the standard deviation, the maximum score, the minimum score, and the
 range. It also determines the letter grade of each score based on the mean and standard
