@@ -1,6 +1,4 @@
-/* Ian Lim
-CMPSC 121-001
-Date: 10/9/22
+/* Quadratic Solver
 This program prompts the user for the coefficients
 of a, b, and c of a quadratic function in the form
 f(x) = ax^2 + bx + c and outputs the roots */
